@@ -2,7 +2,7 @@
 Create a Zoo game for kids
 
 
-## TODO 
+## TODO - WORK IN PROGRESS
 -  [v] Logo
 -  [v] Grid with 20 animals
 -  [v] Background colors
