@@ -8,7 +8,9 @@ Create a Zoo game for kids
 -  [v] Logo
 -  [v] Grid with 20 animals
 -  [v] Background colors
--  TODO:  Change background colors on Grid
+- TODO: add space-between to cards
+- TODO: add media queries
+- TODO: Change background colors on Grid
 - TODO: Add flipcard animation
 - TODO: Add audio for animals
 
