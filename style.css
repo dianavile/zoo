@@ -1,5 +1,7 @@
-.h1 {
+.title {
     text-align: center;
+    font-size: 5rem;
+    color: #F3AAAA;
 }
 
 
@@ -29,6 +31,8 @@
     display: grid;
     grid-template-columns: auto auto auto auto auto;
     padding: 4rem;
+    column-gap: 10px;
+    row-gap: 15px;
 }
 
 .container-item {
