@@ -1,3 +1,8 @@
+.h1 {
+    text-align: center;
+}
+
+
 /* Colors*/
 
 .green {
@@ -23,12 +28,13 @@
 .container-fluid {
     display: grid;
     grid-template-columns: auto auto auto auto auto;
-    padding: 1rem;
+    padding: 4rem;
 }
 
 .container-item {
-    border: 5px solid #fff;
-    padding: 1rem;
+    border: 5px solid #ffffff;
+    padding: 2rem;
+    justify-content: space-between;
 }
 
 .zone {
