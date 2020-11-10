@@ -41,8 +41,8 @@ html {
 
 .container-fluid {
     display: grid;
-    grid-template-columns: auto auto auto auto auto;
-    padding: 4rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    padding: 2rem;
     column-gap: 10px;
     row-gap: 15px;
 }
@@ -57,9 +57,9 @@ html {
     cursor: pointer;
     display: inline-block;
     text-align: center;
-    font-size: 10em;
+    font-size: 2em;
     border-radius: 4px;
-    border: 5px solid #fff;
+    border: 10px solid #fff;
     transition: all 0.3s linear;
 }
 
