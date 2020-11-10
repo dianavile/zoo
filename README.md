@@ -8,11 +8,12 @@ Create a Zoo game for kids
 -  [v] Logo
 -  [v] Grid with 20 animals
 -  [v] Background colors
-- TODO: add space-between to cards
-- TODO: add media queries
-- TODO: Change background colors on Grid
+-  [v] Change background colors on Grid
+-  [v] Add space-between to cards
+- TODO:: Add audio for animals
 - TODO: Add flipcard animation
-- TODO: Add audio for animals
+- TODO: add media queries
+
 
 ## CODESANDBOX 
 - [CodeSandBox](https://codesandbox.io/s/musing-kalam-mh03s)
